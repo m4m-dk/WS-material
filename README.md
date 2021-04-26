@@ -1,4 +1,4 @@
-# WS-material
+# Workshop-material
 
 This repository contains material for the M4M workshop organised by DeiC in collaboration with GO-FAIR.
 
