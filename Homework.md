@@ -1,6 +1,4 @@
-# **DeIC M4M online workshop**
-
-# **Homework**
+# **Homework for the DeIC M4M online workshop**
 
 ## **Mandatory for everyone**:
 1. Read the **Rules of Engagement** document.
