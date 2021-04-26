@@ -7,4 +7,4 @@ You can find here the **homework** (which needs to be done before the WS begins)
 The **slides** for the workshop can be found here:
 
 - [Introduction to linked (meta)data and machine-actionability - Day 1](https://zenodo.org/record/4462058)
-- [Introduction to machine actionable metadata - Day 1](https://zenodo.org/record/4621141)
+- [Introduction to machine actionable metadata - Day 2](https://zenodo.org/record/4621141)
