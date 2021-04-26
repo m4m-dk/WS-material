@@ -1,8 +1,8 @@
-**DeIC M4M online workshop**
+# **DeIC M4M online workshop**
 
-**Homework**
+# **Homework**
 
-**Mandatory for everyone**:
+## **Mandatory for everyone**:
 Read the **Rules of Engagement** document.
 Get an [**ORCID**](https://orcid.org/signin)
 Get an account for [**GitHub**](https://github.com/join) 
@@ -11,14 +11,15 @@ Get an account for [**Cedar**](https://auth.metadatacenter.org/auth/realms/CEDAR
 Fill out this [**Cedar template**](http://bit.ly/m4m-dk-001-form) with your contact information, so you can be added to DeiCs Slack channel, GitHub repository, and CEDAR folder minimum 1 week before the workshop.
 You need to provide either a gmail address or an e-mail address that is linked to a Google account [**find a tutorial here**](https://support.google.com/accounts/answer/27441)
  
-**Mandatory for the group**:
+## **Mandatory for the group**:
 Select datasets for which you want to create machine-actionable metadata. Selected datasets should not contain sensitive data and ideally should be already public.
 Determine relevant domain specific standards, subject terms and concepts, variables etc.
  
-**It is mandatory to select at least one person** (preferably two), who will volunteer to be the groups data champion - someone who is dedicated to continue to lead the groups work towards FAIR metadata after the workshop is completed. Let DeiC know who will take these roles. Each data champion will work towards becoming an expert in developing and maintaining:
+## **It is mandatory to select at least one person** 
+(preferably two), who will volunteer to be the groups data champion - someone who is dedicated to continue to lead the groups work towards FAIR metadata after the workshop is completed. Let DeiC know who will take these roles. Each data champion will work towards becoming an expert in developing and maintaining:
 Controlled vocabularies, starting with simple tools such as: [https://excel2rdf.readthedocs.io](https://excel2rdf.readthedocs.io/en/latest/)
 Metadata templates using the CEDAR workbench: watch/read the [**tutorial**](https://metadatacenter.github.io/cedar-manual/)
  
-**If you are not already familiar with the topic, it is nice to**:
+## **If you are not already familiar with the topic, it is nice to**:
 Read the [**FAIRytale**](https://zenodo.org/record/2248200) to get acquainted with the basic concepts of FAIR
 Navigate [**https://howtofair.dk/**](https://howtofair.dk/) to get a further impression of what going FAIR means from a practical perspective
