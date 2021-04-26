@@ -1,7 +1,7 @@
 # **Homework for the DeIC M4M online workshop**
 
 ## **Mandatory for everyone**:
-1. Read the **Rules of Engagement** document.
+1. Read the [**Rules of Engagement**](https://github.com/m4m-dk/workshop-material/blob/main/Rules%20of%20Engagement.md) document.
 
 2. Get an [**ORCID**](https://orcid.org/signin)
 
@@ -24,9 +24,11 @@ Select one person (preferably two), who will volunteer to be the groups data cha
 
 1. Controlled vocabularies, starting with simple tools such as: [https://excel2rdf.readthedocs.io](https://excel2rdf.readthedocs.io/en/latest/)
 
-2. Metadata templates using the CEDAR workbench: watch/read the [**tutorial**](https://metadatacenter.github.io/cedar-manual/)
+2. Metadata templates using the CEDAR workbench: watch/read the [**tutorial**](https://metadatacenter.github.io/cedar-manual/) and the [**video**](https://www.youtube.com/watch?v=plqBnYESXbw)
  
 ## **If you are not already familiar with the topic, it is nice to**:
 1. Read the [**FAIRytale**](https://zenodo.org/record/2248200) to get acquainted with the basic concepts of FAIR
 
 2. Navigate [**https://howtofair.dk/**](https://howtofair.dk/) to get a further impression of what going FAIR means from a practical perspective
+
+3. Read through the presentation [**FAIR DATA COLLECTIVE: FAIR Made Easy**](https://zenodo.org/record/4705970)
